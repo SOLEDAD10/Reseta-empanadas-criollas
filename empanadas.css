@@ -1,0 +1,21 @@
+img {width: : 50%;
+}
+section {width:50%; }
+
+background-color: red;
+
+a:visited{color: red;}
+
+a :hover{background-color:  yellow;
+font-size:  30 px;
+color: black;
+font-family: cursive;
+font-weight: weigh: 400;}
+
+
+
+
+section:hover {width: 100%;}
+
+section::after }
+button{background-color: red;}
