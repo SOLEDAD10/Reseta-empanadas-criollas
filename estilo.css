@@ -1,16 +1,16 @@
-body { background-color: orange;}
-.color:green;
-.letraazul {color:blue;}
+body { background-color: orange; }
+#letraazul {color: blue;}
 
-#colorRojo{color : red;}
+.colorRojo{color: red;}
 
-#title{color:violet;
-.text-align: center;}
+.title{color: violet;}
+
+.text-align: center;
 
 .title2 {font-family: serif;
 text-align: center;}
 
-parrafo
+
 
 img {width: : 50%;
 
