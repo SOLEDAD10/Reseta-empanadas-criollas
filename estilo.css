@@ -1,27 +1,69 @@
-body { background-color: orange; }
-#letraazul {color: blue;}
+body {background-color: orange; }
 
-.colorRojo{color: red;}
+#reseta de empanadas criollas:{color:black}
 
-.title{color: violet;}
+.colorRojo color: black;
 
-.text-align: center;
+.title color: violet;
+
+.text-align: center; }
+.empanas criollas 2 {color : green;}
+
+header{background-color: yellow}
+nav{background-color: yellow}
+section{background-color: violet}
+aside{background-color: tomato}
+footer{background-color: pink}
+
+section{ float: left;
+        width: 48%;
+        height:250px;
+      overflow: auto;
+    margin: 1%;
+  border: 2px dotted green;
+  padding: 5px
+box-sizing: border-box;}
+
+aside{width: 45%;
+      float: left;
+    height:250px;
+    overflow: scroll;
+    margin: 1%;
+  border: 2px dotted black;
+box-sizing: border-box;}
+
+
+footer{clear:both;}
+.iconologos {position: fixed;
+top: 10%auto;
+right: 1%}
+body{
+
+background-color: red;}
+
+
+background-imagen: url(empanadas criollas 2.jpg);}
+background-repeat: no-repeat;}
+background-attachment: fixed;}
+background-position:50% 50%;}
+}
+
+
 
 .title2 {font-family: serif;
 text-align: center;}
 
-
+.nuevo{ color:red;}
 
 img {width: : 50%;
 
 }
 section {width:50%; }
 
-background-color: red;
 
 a:visited{color: red;}
 
-a :hover{background-color:  yellow;
+a :hover{background-color:  yellow}
 font-size:  30 px;
 color: black;
 font-family: cursive;
