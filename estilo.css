@@ -1,13 +1,25 @@
 body {background-color: orange; }
 
-#reseta de empanadas criollas:{color:black}
+#colorRojo :{color:blue;}
+.letraazul {color:blue}
 
-.colorRojo color: black;
+.colorRojo{ color: black;}
 
-.title color: violet;
+.title {color: violet;
 
 .text-align: center; }
-.empanas criollas 2 {color : green;}
+
+.empanadas criollas 2 {color : green;}
+
+
+
+
+
+.position: fixed;
+ top:75%;
+ right: 1%;
+ width: 100px;
+ height:100px;
 
 header{background-color: yellow}
 nav{background-color: yellow}
@@ -42,18 +54,21 @@ body{
 background-color: red;}
 
 
-background-imagen: url(empanadas criollas 2.jpg);}
-background-repeat: no-repeat;}
-background-attachment: fixed;}
+background-imagen: url empanadas criollas 2.jpg ;
+{
+background-repeat: no-repeat;
+
+background-attachment: fixed;
+
 background-position:50% 50%;}
-}
+
 
 
 
 .title2 {font-family: serif;
 text-align: center;}
 
-.nuevo{ color:red;}
+.nuevo { color:red;}
 
 img {width: : 50%;
 
@@ -63,16 +78,23 @@ section {width:50%; }
 
 a:visited{color: red;}
 
-a :hover{background-color:  yellow}
-font-size:  30 px;
+a :hover{background-color:  yellow;
+font-size:  30px;
+
 color: black;
-font-family: cursive;
-font-weight: weigh: 400;}
+
+font-family :cursive ;
+
+font-weight:weigh:400%;}
 
 
-
+.wicono2 : {width: 10%;
+overflow: 10%;}
 
 section:hover {width: 100%;}
 
-section::after }
+section::after
 button{background-color: red;}
+.iconow {position: fixed;
+      top: 35%;
+       right: 1%;}
